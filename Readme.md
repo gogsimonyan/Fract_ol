@@ -12,7 +12,8 @@ the program.
 
 ## Compilation
 
-Clone repo and compile files into fract_ol executables via make.
+- Clone repo and compile files into fract_ol executables via make.
+- Note: For linux you need to install minilibx.
 ```sh
 ./fract_ol mandelbrot || julia
 ```
